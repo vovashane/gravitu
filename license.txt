@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gravitational Dynamics of DM HALO animation
+* source:	https://sketchfab.com/3d-models/gravitational-dynamics-of-dm-halo-animation-682f0fe8aa9c4e77b66db21bece173ca
+* author:	Tomer Nussbaum (https://sketchfab.com/tomer.nussbaum)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gravitational Dynamics of DM HALO animation" (https://sketchfab.com/3d-models/gravitational-dynamics-of-dm-halo-animation-682f0fe8aa9c4e77b66db21bece173ca) by Tomer Nussbaum (https://sketchfab.com/tomer.nussbaum) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
